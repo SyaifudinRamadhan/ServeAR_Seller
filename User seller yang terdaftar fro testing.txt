@@ -1,0 +1,10 @@
+Daftar User seller yang sudah terdaftar untuk uji coba :
+1. username : Ahmad Syaifudin R
+   Password : Syaifudin1012
+
+2. username : Ilza Shop
+   password : Syaifudin1012
+
+Catatan : Harap bersabar untuk loadingnya. Karena databse online yang digunakan versi gratisan
+
+
